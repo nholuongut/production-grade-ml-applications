@@ -19,9 +19,6 @@
 <div align="center">
 <h1><img width="30" src="https://madewithml.com/static/images/rounded_logo.png">&nbsp;<a href="https://madewithml.com/">Made With ML</a></h1>
 Design · Develop · Deploy · Iterate
-<br>
-Join 40K+ developers in learning how to responsibly deliver value with ML.
-    <br>
 </div>
 
 <br>
