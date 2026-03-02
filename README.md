@@ -29,7 +29,7 @@ Design · Develop · Deploy · Iterate
 
 ## Overview
 
-In this course, we'll go from experimentation (design + development) to production (deployment + iteration). We'll do this iteratively by motivating the components that will enable us to build a *reliable* production system.
+In this repo, we'll go from experimentation (design + development) to production (deployment + iteration). We'll do this iteratively by motivating the components that will enable us to build a *reliable* production system.
 <br>
 
 - **💡 First principles**: before we jump straight into the code, we develop a first principles understanding for every machine learning concept.
