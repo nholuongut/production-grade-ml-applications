@@ -87,7 +87,7 @@ Create a repository by following these instructions: [Create a new repository](h
 Now we're ready to clone the repository that has all of our code:
 
 ```bash
-git clone https://github.com/nholuongut/Made-With-ML.git .
+git clone https://github.com/nholuongut/production-grade-ml-applications.git .
 ```
 
 ### Credentials
